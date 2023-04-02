@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JohnCRuf
-- 👀 I’m interested in Social Science Research in Economics. Specifically in topics such as Political Economy, Industrial Organization, and Monetary Economics
-- 📫 How to reach me: Email me at Jcruf@uchicago.edu
+- 👀 I’m interested in Economic Research. In particular I am interested in Political Economy, Urban Economics, and Innovation and Productivity from an empirical IO perspective (Although I do enjoy a good causal inference paper). 
+- 📫 How to reach me: Email me at Jcruf@uchicago.edu or JohnRuf@outlook.com
 
